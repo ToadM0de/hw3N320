@@ -1,0 +1,10 @@
+#image {
+    height: auto;
+    width: 400px;
+}
+
+a {
+    text-decoration: none;
+    margin-left: 90px;
+    color: cadetblue;
+}
